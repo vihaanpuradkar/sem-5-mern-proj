@@ -18,7 +18,7 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 
 ## 🎞 Demo
 
-### Try it your self [here](https://pettiboy.github.io/react-ui-scrollspy)!
+### Try it your self [here](https://pseudo-notion.pettiboy.com)!
 
 | `Dark Mode`                              | `Light Mode`                               |
 | :--------------------------------------- | :----------------------------------------- |
@@ -42,8 +42,15 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 1. `React` - Frontend
 1. `Material UI` - Styling
 
+## 🚀 Future Scope
+
+- Revamp Landing Page UI.
+- Add option to upload files and images along with text.
+
 ## 📝 Authors
 
 Made with ❤️
 
-- Hussain Pettiwala ([@pettiboy](https://github.com/pettiboy))
+- Aishwarya R - 16010120097 ([@Aishwaryaaa24](https://github.com/Aishwaryaaa24))
+- Vihaan Puradkar - 16010120096 ([@vihaanpuradkar](https://github.com/vihaanpuradkar))
+- Hussain Pettiwala - 16010120094 ([@pettiboy](https://github.com/pettiboy))
